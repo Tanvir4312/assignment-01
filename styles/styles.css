@@ -8,7 +8,7 @@
 
 body {
     font-family: "Azeret Mono";
-   
+
 }
 
 
@@ -154,6 +154,37 @@ body {
     background: linear-gradient(270.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
     padding: 48px;
 }
+
+/* Inspiration-section-style */
+.my-inspiration-section {
+    width: 1100px;
+    margin: 74px auto 150px;
+    text-align: center;
+}
+
+.my-inspiration-section p {
+    width: 850px;
+    margin: 0 auto;
+    padding: 24px 0 40px 0;
+}
+
+.my-inspiration-section div {
+   
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 20px;
+    width: 53%;
+    margin: 0 auto;
+
+}
+
+.video {
+    border-radius: 16px;
+
+
+
+}
+
 
 /* Footer-section-style */
 #footer-container {
