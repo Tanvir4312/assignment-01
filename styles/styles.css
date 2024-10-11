@@ -180,11 +180,87 @@ body {
 
 .video {
     border-radius: 16px;
-
-
-
 }
 
+/* Current target section style */
+
+.current-target-text{
+    width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.current-target-text p{
+    padding: 24px 0 48px 0;
+}
+
+.learning-container{
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+}
+
+.learning-card-1{
+    border-radius: 16px;
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 40px;
+}
+.learning-card-1 h5{
+    padding: 24px 0 10px 0;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.learning-card-1 p{
+    padding-bottom: 24px;
+    line-height: 26px;
+}
+
+.learning-card-1 a{
+    color: black;
+    font-weight: 700;
+}
+.learning-card-2{
+    border-radius: 16px;
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 40px;
+}
+.learning-card-2 h5{
+    padding: 24px 0 10px 0;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.learning-card-2 p{
+    padding-bottom: 24px;
+    line-height: 26px;
+}
+
+.learning-card-2 a{
+    color: black;
+    font-weight: 700;
+}
+.learning-card-3{
+    border-radius: 16px;
+    background-color: rgba(255, 223, 0, 0.05);
+    padding: 40px;
+}
+.learning-card-3 h5{
+    padding: 24px 0 10px 0;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.learning-card-3 p{
+    padding-bottom: 24px;
+    line-height: 26px;
+}
+
+.learning-card-3 a{
+    color: black;
+    font-weight: 700;
+}
 
 /* Footer-section-style */
 #footer-container {
